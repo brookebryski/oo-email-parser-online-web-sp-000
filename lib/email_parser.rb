@@ -13,7 +13,7 @@ attr_accessor :email_address
     end
     .flatten.uniq
   end
-end 
+ 
 
 
 end
